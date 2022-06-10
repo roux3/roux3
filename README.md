@@ -1,8 +1,7 @@
 ### 🦡 Olá meu chapa 🦡
 ##
 
-</style>
- 
+
 <div>
   <a href="https://github.com/roux3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roux3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +10,7 @@
   
 ##
 <div style="display: inline_block"><br>
-  <a href="https://github.com/roux3/Rastreio-correios" style="text-decoration: none;">
+  <a href="https://github.com/roux3/Rastreio-correios">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://github.com/roux3/JornalVeneza">
