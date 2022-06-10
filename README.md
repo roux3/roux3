@@ -1,5 +1,11 @@
 ### 🦡 Olá meu chapa 🦡
 ##
+<style>
+a{
+  text-decoration:none;
+  }
+</style>
+ 
 <div>
   <a href="https://github.com/roux3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roux3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +22,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  
   <a href="https://github.com/roux3/ControleEstoqueMEI">
   <img align="center" alt="Rafa-Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
