@@ -1,9 +1,6 @@
 ### 🦡 Olá meu chapa 🦡
 ##
-<style>
-.link{
-  text-decoration: none;
-  }
+
 </style>
  
 <div>
@@ -14,7 +11,7 @@
   
 ##
 <div style="display: inline_block"><br>
-  <a href="https://github.com/roux3/Rastreio-correios" class="link">
+  <a href="https://github.com/roux3/Rastreio-correios" target="_blank">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://github.com/roux3/JornalVeneza">
