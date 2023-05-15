@@ -34,6 +34,10 @@
   <img align="center" alt="django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   </a>
   
+  <a href="https://github.com/roux3">
+  <img align="center" alt="django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  </a>
+  
 
 </div>
 
